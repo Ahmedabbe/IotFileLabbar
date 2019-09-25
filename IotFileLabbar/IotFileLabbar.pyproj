@@ -27,6 +27,9 @@
     <Compile Include="Lab3.py" />
     <Compile Include="Lab2.py" />
     <Compile Include="Lab1.py" />
+    <Compile Include="OOPDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="SampleFile2-Lab1.txt" />
