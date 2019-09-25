@@ -6,6 +6,8 @@ def DeleteIfExists(s):
 
 DeleteIfExists("SampleFile-Lab2Result.txt")#not needed since "w" recreates
 
+
+
 with open("SampleFile-Lab2Result.txt", "w") as outDataFile:
     with open("SampleFile-Lab1.txt", "r") as indataFile1:
         for line in indataFile1:

@@ -1,17 +1,10 @@
-Allens kolibri
-Annas kolibri
-Bartletts tinamo
-Bouguers kolibri
-Böhms taggstjärtseglare
-Cassins taggstjärtseglare
-Costas kolibri
-Sabines taggstjärtseglare
 abessinsk duva
 adamawaduva
 afrikansk grönduva
 afrikansk gök
 afrikansk palmseglare (5)
 afrikansk ringduva
+Allens kolibri
 alpseglare (6)
 amaziliasmaragd
 amazonblomnymf
@@ -27,6 +20,7 @@ andamangökduva
 andinsk seglare
 andinsk smaragd
 andinsk tinamo
+Annas kolibri
 antarktisskarv
 antillerseglare
 arnhemduva
@@ -51,6 +45,7 @@ bandstjärtsduva
 banggaifruktduva
 bantunattskärra
 barbent salangan
+Bartletts tinamo
 barusangökduva
 batesnattskärra
 batesseglare
@@ -97,6 +92,7 @@ boliviaflaggkolibri
 bonapartenattskärra
 boninduva †
 borneosalangan
+Bouguers kolibri
 bountyskarv
 brasiliansk tinamo
 bredstjärtad kolibri
@@ -124,8 +120,10 @@ burubergduva
 burugrönduva
 busktinamo
 bågnäbbad tinamo
+Böhms taggstjärtseglare
 campbellskarv
 cassinduva
+Cassins taggstjärtseglare
 ceylonduva
 ceylongrönduva
 chapmanseglare
@@ -145,6 +143,7 @@ cookseglare (7)
 costaricaseglare
 costaricasmaragd
 costaricavaktelduva
+Costas kolibri
 cozumelsmaragd
 crozetskarv
 damaraseglare
@@ -562,6 +561,7 @@ rödnäbbad vimpelkolibri
 rödstrupig fruktduva
 rödvårtig kejsarduva
 rödögd duva
+Sabines taggstjärtseglare
 safirgumpad dunbena
 safirvaktelduva
 safirvinge

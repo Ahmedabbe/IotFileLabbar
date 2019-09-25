@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>06fadf9a-45ce-4256-bf65-cf374b543ca8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lab6.py</StartupFile>
+    <StartupFile>OOPDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
